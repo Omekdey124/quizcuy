@@ -1,0 +1,21 @@
+* {
+    font-family: 'Inter';
+}
+
+
+
+.rounded-full {
+    border-radius: 99rem;
+}
+
+.blue-gradient {
+    background: linear-gradient(180deg, #3965FF 0%, rgba(66, 0, 255, 0) 100%);
+}
+.text-black {
+    color: #222;
+}
+
+.base-color {
+    background-color: #D2E4FF;
+}
+
